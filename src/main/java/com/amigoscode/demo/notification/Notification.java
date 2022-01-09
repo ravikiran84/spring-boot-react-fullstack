@@ -43,7 +43,7 @@ public class Notification {
 
     @Override
     public String toString() {
-        return "Notification{" +
+        return "Notifications{" +
                 "message='" + message + '\'' +
                 ", timestamp=" + timestamp +
                 '}';
